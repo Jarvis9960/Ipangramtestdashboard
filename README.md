@@ -19,3 +19,14 @@ Manager can view all managers with filtering data
 Manager can view all department with filtering data
 
 Employee can only see there profile
+
+
+
+Test crendential 
+For Manager 
+email: ankitfukte11@gmail.com 
+pass: VNFoGT2s
+
+For employee
+email: testspeakerore@gmail.com
+pass: 7UB57qtu
